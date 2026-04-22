@@ -1,12 +1,12 @@
 {
-  "export_job_id": "22efda12-b314-4e29-93a0-0fc186227095",
+  "export_job_id": "ec4ce77d-07b0-4753-a247-3d0600a8baf7",
   "id_short": 153308,
-  "published_at": "2026-04-18T07:28:52Z",
+  "published_at": "2026-04-22T19:18:16Z",
   "repo_name": "restaurant-verified-email-access-in-alaska-us-sample-153308",
   "sample_asset_name": "beamstation_153308_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/153308/beamstation_153308_restaurants-us-ak_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "e1a46d75186535cd70c130f91f8bedcfba0b06f8137012a9a9c70da777a5897a",
-  "sample_size_bytes": 111863,
-  "total_records": 261
+  "sample_records": 15,
+  "sample_sha256": "36bb5eaa475605348c6c074047d0358266f6702e80dc84e6faf40111d99a52fc",
+  "sample_size_bytes": 76091,
+  "total_records": 151
 }

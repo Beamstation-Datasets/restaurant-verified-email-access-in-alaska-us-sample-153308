@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Alaska, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `153308` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 261 records |
-| Free sample size | 26 records (9.96%) |
-| Last export | 2026-04-15T05:44:54.542556+00:00 |
+| Full dataset size | 151 records |
+| Free sample size | 15 records (9.93%) |
+| Last export | 2026-04-22T11:41:26.140561+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-alaska-us-sample-153308/releases/download/sample-latest/beamstation_153308_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
